@@ -1,0 +1,10 @@
+C:\Users\manag\source\repos\ResistanceCalculator\ResistanceCalculator\bin\Debug\ResistanceCalculator.exe.config
+C:\Users\manag\source\repos\ResistanceCalculator\ResistanceCalculator\bin\Debug\ResistanceCalculator.exe
+C:\Users\manag\source\repos\ResistanceCalculator\ResistanceCalculator\bin\Debug\ResistanceCalculator.pdb
+C:\Users\manag\source\repos\ResistanceCalculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.csprojAssemblyReference.cache
+C:\Users\manag\source\repos\ResistanceCalculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.Form1.resources
+C:\Users\manag\source\repos\ResistanceCalculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.Properties.Resources.resources
+C:\Users\manag\source\repos\ResistanceCalculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.csproj.GenerateResource.cache
+C:\Users\manag\source\repos\ResistanceCalculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\manag\source\repos\ResistanceCalculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.exe
+C:\Users\manag\source\repos\ResistanceCalculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.pdb
