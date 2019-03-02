@@ -323,7 +323,7 @@ namespace ResistanceCalculator
 
 
             //if the resistor is a 4 band type
-            if (band3.SelectedText == "None")
+            if (band3.SelectedText == "")
             {
                 calc = (band2Var + (band1Var * 10)) * multiplierVar;
                 range1 = calc * (1 - toleranceVar);
